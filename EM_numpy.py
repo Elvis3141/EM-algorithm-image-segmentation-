@@ -96,35 +96,3 @@ plot_cost(error)
 #plot image
 plot_image(img_3d)
 print("Image Errror :",error, "\nIterations :", len(log_likehood))
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
